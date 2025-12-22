@@ -18,7 +18,7 @@ body {
 
 .subtitle{
   position: fixed;
-  top: 300px;        
+  top: 600px;        
   left: 50%;
   transform: translateX(-50%);
   margin: 0;
