@@ -10,7 +10,6 @@ body {
 }
 #game {
   border: 5px solid black;
-  display: inline-block;
   position: fixed;
   top: 50%;
   bottom: 50%;
