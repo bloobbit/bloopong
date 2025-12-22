@@ -9,7 +9,7 @@ body {
   margin: 0;
 }
 #game {
-  margin: 4px;
+  margin: auto;
   border: 5px solid black;
   left: 0;
   position: absolute;
