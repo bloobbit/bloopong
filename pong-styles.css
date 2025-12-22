@@ -16,7 +16,16 @@ body {
   background-color: black;
 }
 
+.subtitle{
+  position: fixed;
+  top: 50px;        
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0;
 
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 #game {
   position: relative;
