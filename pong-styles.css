@@ -15,7 +15,6 @@ body {
   position: absolute;
   background-image: url("pongbg.gif");
   background-size: cover;
-  background-repeat: no-repeat;
 }
 
 #left-paddle {
