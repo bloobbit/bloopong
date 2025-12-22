@@ -10,12 +10,14 @@ body {
 }
 #game {
   border: 5px solid black;
-  position: absolute;
+  display: inline-block;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
   background-image: url("pongbg.gif");
   background-size: cover;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 #left-paddle {
