@@ -6,8 +6,7 @@ Feel free to play with things like color or font
 html,
 body {
   padding: 0;
-  width: 50%;
-  margin: 0 auto;
+  margin: 0;;
 }
 #game {
   border: 5px solid black;
