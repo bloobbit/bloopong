@@ -160,3 +160,5 @@ body {
 #right-score {
   right: 1%;
 }
+
+.page-title { outline: 5px solid lime !important; }
