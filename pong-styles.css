@@ -10,11 +10,9 @@ body {
   margin: 0 auto;
 }
 #game {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   border: 5px solid black;
+  left: 0;
+  position: absolute;
   background-image: url("pongbg.gif");
   background-size: cover;
 }
